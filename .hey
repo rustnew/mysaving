@@ -1,0 +1,9 @@
+cle  du coompte : 
+Public key: 0x02c9642cc2ad1c1fc825302aa79d07089792d52597465baea3e2e65a21b1f9e0
+
+
+Once deployed, this account will be available at:
+    0x0009751d2f823026e7e387a2108f0424387253adff1f298c43e7cff657e6bf24
+
+Deploy this account by running:
+    starkli account deploy mysaving/my_account.json

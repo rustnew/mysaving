@@ -1,0 +1,5 @@
+[rpc]
+url = "https://starknet-sepolia.public.blastapi.io"
+
+[account]
+keystore = "0x2c9642cc2ad1c1fc825302aa79d07089792d52597465baea3e2e65a21b1f9e0"
